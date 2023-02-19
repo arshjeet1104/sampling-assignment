@@ -35,4 +35,4 @@ Based on these results, it can be concluded that Cluster Sampling performs the b
 ## Conclusion
 
 It is recommended to use cluster sampling for this dataset, as it consistently gives the best performance across all models. However, other sampling techniques may be worth considering for different datasets or models.
-
+ 
